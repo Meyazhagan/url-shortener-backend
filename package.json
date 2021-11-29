@@ -1,0 +1,31 @@
+{
+  "name": "url-shorterner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "devStart": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Meyazhagan",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "config": "^3.3.6",
+    "cors": "^2.8.5",
+    "date-fns": "^2.25.0",
+    "express": "^4.17.1",
+    "joi": "^17.4.2",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.0.12",
+    "nodemailer": "^6.7.1",
+    "randombytes": "^2.1.0",
+    "sib-api-v3-sdk": "^8.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}

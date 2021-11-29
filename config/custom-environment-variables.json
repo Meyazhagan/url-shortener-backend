@@ -1,0 +1,11 @@
+{
+  "mongodb": {
+    "url": "URL_DB_PASSWORD_DB"
+  },
+  "screteKey": "URL_SCRETE_KEY",
+  "mail": {
+    "username": "MAILER_USERNAME",
+    "password": "MAILER_PASSWORD"
+  },
+  "frontend": "FRONTEND_URL"
+}

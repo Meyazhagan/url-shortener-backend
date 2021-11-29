@@ -1,0 +1,10 @@
+{
+  "mongodb": {
+    "url": ""
+  },
+  "screteKey": "ScreteKeyValue",
+  "mail": {
+    "username": "",
+    "password": ""
+  }
+}
